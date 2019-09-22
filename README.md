@@ -1,1 +1,1 @@
-https://github.com/Buu90/rsschool-cv/blob/master/cv.md
+ https://Buu90.github.io/rsschool-cv/cv
