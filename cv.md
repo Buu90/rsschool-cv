@@ -2,9 +2,11 @@ Artsem Zhorau
 ============
 
 -------------------     ----------------------------
+
 Ribalko 16-38                     zhorau90@gmail.com
-Minsk                          [www.zhorau.ru](https://zhorau.ru)
+Minsk                          [zhorau.ru](https://zhorau.ru)
 Belarus                                +375255457419
+
 -------------------     ----------------------------
 
 Education
@@ -41,9 +43,9 @@ During the training course at IT - Academy, I've been working on the project PET
 
 Working as a freelancer participated in projects:
 
- * [www.allseasons.by](allseasons.by);
+ * [allseasons.by](https://allseasons.by);
 
- * [www.viktorleontev.ru](viktorleontev.ru);
+ * [viktorleontev.ru](https://viktorleontev.ru);
 
 Technical Experience
 --------------------
