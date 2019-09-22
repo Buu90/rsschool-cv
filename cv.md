@@ -2,13 +2,13 @@ Artsem Zhorau
 ============
 
 -------------------     ----------------------------
-
 Ribalko 16-38                     zhorau90@gmail.com
+
 
 Minsk                          [zhorau.ru](https://zhorau.ru)
 
-Belarus                                +375255457419
 
+Belarus                                +375255457419
 -------------------     ----------------------------
 
 Education
