@@ -24,7 +24,7 @@ Education
 About me
 ----------
 
-I studied social and political philosophy in Vilnius. Subsequently, I became interested in website development, started to realize myself as a front-end developer, as I think this direction is extremely interesting and promising "[zhorau.ru](zhorau.ru)".
+I studied social and political philosophy in Vilnius. Subsequently, I became interested in website development, started to realize myself as a front-end developer, as I think this direction is extremely interesting and promising "[zhorau.ru](https://zhorau.ru)".
 
 I would like to continue to develop in the field of web development. Learn new technologies, and constantly learning. Want participate in a large project.
 
