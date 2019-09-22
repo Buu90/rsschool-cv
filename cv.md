@@ -2,7 +2,7 @@ Artsem Zhorau
 ============
 
 -------------------     ----------------------------
-Ribalko 16-38                     zhorau90@gmail.com
+Ribalko 16-38                     zhorau90@gmail.co
 
 
 Minsk                          [zhorau.ru](https://zhorau.ru)
